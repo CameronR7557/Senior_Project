@@ -1,0 +1,6 @@
+All of the code, minus some changes to adapt it to my project, in the Filters folder comes from:
+https://www.youtube.com/@PhilsLab
+or
+https://github.com/pms67
+
+-Cameron Robinson
