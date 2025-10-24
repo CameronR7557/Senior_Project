@@ -10,16 +10,16 @@ Debug/
 Schematics/*/*-backups/
 Schematics/*/*-backups/
 *.bak
-SP Workspace/.metadata
+Code/.metadata
 .settings/
 language.settings.xml
 temp/
 *.log
 Debug/
-SP Workspace/DroneRTOS/CM7/Debug/
-SP Workspace/DroneRTOS/CM4/Debug/
-SP Workspace/RemoteControlRTOS/CM7/Debug/
-SP Workspace/RemoteControlRTOS/CM4/Debug/
+Code/DroneRTOS/CM7/Debug/
+Code/DroneRTOS/CM4/Debug/
+Code/RemoteControlRTOS/CM7/Debug/
+Code/RemoteControlRTOS/CM4/Debug/
 Wiring Schematics/SP_RemoteControl/SP_RemoteControl-backups/
 Wiring Schematics/SP_Quadcopter/SP_Quadcopter-backups/
 
